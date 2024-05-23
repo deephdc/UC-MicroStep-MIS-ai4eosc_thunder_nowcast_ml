@@ -1,3 +1,8 @@
+---
+# The Repository is ARCHIVED!
+### it is now maintained in https://github.com/MicroStep-MIS/thunderstorm-nowcast-microstep <br>(mirrored to https://github.com/ai4os-hub/thunderstorm-nowcast-microstep)
+---
+
 UC-MicroStep-MIS-ai4eosc_thunder_nowcast_ml
 ==============================
 
